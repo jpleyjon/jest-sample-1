@@ -13,5 +13,5 @@ npm install
 To run the tests run
 
 ```base
-npm run dev
+npm run test
 ```
